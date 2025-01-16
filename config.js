@@ -27,10 +27,10 @@ global.APIKeys = {
 /*============ NOMOR ============*/
 // BOLEH DI EDIT ASALKAN JANGAN ADA SIMBOL YANG DI HAPUS
 global.info = {
-	nomorbot: '62882257504889',
-	nomorown: '6281283516246',
-	namebot: 'Assisten YuLa',
-	nameown: 'Maximus Store',
+	nomorbot: '6289648062734',
+	nomorown: '62895411120976',
+	namebot: 'Assisten Yula',
+	nameown: 'Alief Kaka',
 	channel: '120363241570452835@newsletter',
 	namechannel: 'XM4ZE | Whatsapp Bots'
 }
@@ -39,11 +39,11 @@ global.info = {
 
 /*============ OWNER ============*/
 // BOLEH DI EDIT ASALKAN JANGAN ADA SIMBOL YANG DI HAPUS
-global.owner = ['6281283516246'] // Ganti pakai nomor kalian
-global.xmaze = ['6281283516246'] // Ganti pakai nomor kalian
+global.owner = ['62895411120976'] // Ganti pakai nomor kalian
+global.xmaze = ['62895411120976'] // Ganti pakai nomor kalian
 
-global.mods = ['6288225750488'] // Opsional boleh ganti atau tidak 
-global.prems = ['6281283516246', '6288225750488'] // Opsional boleh ganti atau tidak 
+global.mods = ['6289648062734'] // Opsional boleh ganti atau tidak 
+global.prems = ['62895411120976', '6289648062734'] // Opsional boleh ganti atau tidak 
 
 
 
@@ -58,13 +58,13 @@ global.stickauth = 'XM4ZE' // Opsional boleh ganti atau tidak
 
 /*=========== TEXT & IMAGE ===========*/
 // BOLEH DI EDIT ASALKAN JANGAN ADA SIMBOL YANG DI HAPUS
-global.nameown = 'Maximus Store' // Ganti jadi nama kalian
-global.waown = 'wa.me/6281283516246' // ganti nomor tanpa menghilangkan wa.me/
-global.mail = 'maximusstoreindonesia@gmail.com' // boleh taruh email kalian
+global.nameown = 'Alief Kaka' // Ganti jadi nama kalian
+global.waown = 'wa.me/62895411120976' // ganti nomor tanpa menghilangkan wa.me/
+global.mail = 'aliefkaka123@gmail.com' // boleh taruh email kalian
 global.fb = 'https://facebook.com/maximusstoreindonesia' // boleh taruh link fb kalian
 global.ig = 'https://instagram.com/maximusstore.id' // boleh taruh link ig kalian
 global.gcbot = 'https://whatsapp.com/channel/0029VaL28ZqFSAtCdSU5EX0M' // boleh taruh link group kalian
-global.qris = 'https://telegra.ph/file/f11ccd2ca8a5136aacfb3.jpg' // Wajib isi untuk pembayaran. isi dengan qris
+global.qris = 'https://ar-hosting.pages.dev/1737027784048.png' // Wajib isi untuk pembayaran. isi dengan qris
 global.vn = 'https://github.com/XM4ZE/DATABASE/raw/master/wallpaper/KARA.mp3?raw=true' // Allmenu Voice
 
 
