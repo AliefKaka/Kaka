@@ -1,4 +1,4 @@
-let badwordRegex = /anj(k|g)|ajn?(g|k)|a?njin(g|k)|bajingan|b(a?n)?gsa?t|ko?nto?l|me?me?(k|q)|pe?pe?(k|q)|meki|titi(t|d)|pe?ler|tetek|toket|ngewe|go?blo?k|to?lo?l|idiot|(k|ng)e?nto?(t|d)|jembut|bego|dajj?al|janc(u|o)k|pantek|puki ?(mak)?|kimak|kampang|lonte|col(i|mek?)|pelacur|henceu?t|nigga|fuck|dick|bitch|tits|bastard|asshole/i // tambahin sendiri
+let badwordRegex = /anj$|anjik$|anjing$|jing$|bajingan$|bangsat$|kontol$|memek$|memeq$|pepek$|pepeq$|meki$|titit$|titid$|peler$|ler$|pler$|tetek$|toket$|ngewe$|goblok&|tolol$|idiot$|kentot$|kentod$|ngentot$|ngentod$|tot$|tod$|jembut$|bego$|dajjal$|jancuk$|jancok$|pantek$|puki$|pukimak$|kimak$|kampang$|lonte$|coli$|colmek$|pelacur$|babi$|nigga$|fuck$|dick$|bitch$|tits$|bastard$|anj$|jing$|kont$|babi$|monyet$|bangke$|tai$|jir$|anjig$|cok$|asu$|su$|cuk$|crot$|anjir$|ajg$|asshole$/i // tambahin sendiri
 export async function before(m, { isBotAdmin }) {
     if (m.isBaileys && m.fromMe) return 
     let chat = global.db.data.chats[m.chat]
