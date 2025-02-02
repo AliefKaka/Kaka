@@ -1,4 +1,4 @@
-let badwordRegex = /anj$|anjik$|anjing$|jing$|bajingan$|bangsat$|kontol$|memek$|memeq$|pepek$|pepeq$|meki$|titit$|titid$|peler$|ler$|pler$|tetek$|toket$|ngewe$|goblok&|tolol$|idiot$|kentot$|kentod$|ngentot$|ngentod$|tot$|tod$|jembut$|bego$|dajjal$|jancuk$|jancok$|pantek$|puki$|pukimak$|kimak$|kampang$|lonte$|coli$|colmek$|pelacur$|babi$|nigga$|fuck$|dick$|bitch$|tits$|bastard$|anj$|jing$|kont$|babi$|monyet$|bangke$|tai$|jir$|anjig$|cok$|asu$|su$|cuk$|crot$|anjir$|ajg$|jir$|njir$|asshole$/i // tambahin sendiri
+let badwordRegex = /anj$|anjik$|anjing$|jing$|bajingan$|bangsat$|kontol$|memek$|memeq$|pepek$|pepeq$|meki$|titit$|titid$|peler$|ler$|pler$|tetek$|toket$|ngewe$|goblok&|tolol$|idiot$|kentot$|kentod$|ngentot$|ngentod$|tot$|tod$|jembut$|bego$|dajjal$|jancuk$|jancok$|pantek$|puki$|pukimak$|kimak$|kampang$|lonte$|coli$|colmek$|pelacur$|babi$|nigga$|fuck$|dick$|bitch$|tits$|bastard$|anj$|jing$|kont$|babi$|monyet$|bangke$|tai$|anjig$|cok$|asu$|su$|cuk$|crot$|ajg$|asshole$/i // tambahin sendiri
 export async function before(m, { isBotAdmin }) {
     if (m.isBaileys && m.fromMe) return 
     let chat = global.db.data.chats[m.chat]
