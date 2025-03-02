@@ -49,10 +49,10 @@ global.prems = ['62895411120976', '6289648062734'] // Opsional boleh ganti atau 
 
 /*=========== WATERMARK ===========*/
 // BOLEH DI EDIT ASALKAN JANGAN ADA SIMBOL YANG DI HAPUS
-global.wm = 'XMYULA' // Opsional boleh ganti atau tidak 
-global.author = 'XM4ZE' // Opsional boleh ganti atau tidak 
-global.stickpack = 'XMYULA' // Opsional boleh ganti atau tidak 
-global.stickauth = 'XM4ZE' // Opsional boleh ganti atau tidak 
+global.wm = 'Alief Kaka' // Opsional boleh ganti atau tidak 
+global.author = 'Alief Kaka' // Opsional boleh ganti atau tidak 
+global.stickpack = 'Alief' // Opsional boleh ganti atau tidak 
+global.stickauth = 'Hydra' // Opsional boleh ganti atau tidak 
 
 
 
