@@ -64,7 +64,7 @@ global.mail = 'aliefkaka123@gmail.com' // boleh taruh email kalian
 global.fb = 'https://facebook.com/maximusstoreindonesia' // boleh taruh link fb kalian
 global.ig = 'https://instagram.com/maximusstore.id' // boleh taruh link ig kalian
 global.gcbot = 'https://whatsapp.com/channel/0029VaL28ZqFSAtCdSU5EX0M' // boleh taruh link group kalian
-global.qris = 'https://ar-hosting.pages.dev/1737027784048.png' // Wajib isi untuk pembayaran. isi dengan qris
+global.qris = 'https://static.topindoku.co.id/images/qris/nobu/ID2021071087658_A01.png' // Wajib isi untuk pembayaran. isi dengan qris
 global.vn = 'https://github.com/XM4ZE/DATABASE/raw/master/wallpaper/KARA.mp3?raw=true' // Allmenu Voice
 
 
